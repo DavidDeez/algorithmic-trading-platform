@@ -31,5 +31,7 @@ A sophisticated multi-asset portfolio optimization platform using Deep Reinforce
 git clone https://github.com/DavidDeez/algorithmic-trading-platform.git
 cd algorithmic-trading-platform
 
+pip install torch gym gradio plotly pandas numpy
+
 # Install dependencies
 pip install -r requirements.txt
