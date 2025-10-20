@@ -28,7 +28,7 @@ A sophisticated multi-asset portfolio optimization platform using Deep Reinforce
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/algorithmic-trading-platform.git
+git clone https://github.com/DavidDeez/algorithmic-trading-platform.git
 cd algorithmic-trading-platform
 
 # Install dependencies
